@@ -1,1 +1,1 @@
-# snapShotCloneAndroid
+# SnapChatCloneAndroid
